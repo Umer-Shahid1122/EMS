@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318145853793",
+    "project_id": "umer-ems",
+    "storage_bucket": "umer-ems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318145853793:android:5a603b185a30b372626d20",
+        "android_client_info": {
+          "package_name": "com.example.umer_ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318145853793-cmb0ovr69v9k58fn5ofa320r2jfbu1gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwN-9WK_RhkZVN_FGHO7mF6_pDAd1mzGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318145853793-cmb0ovr69v9k58fn5ofa320r2jfbu1gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
